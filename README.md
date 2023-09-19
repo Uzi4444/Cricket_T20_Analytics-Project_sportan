@@ -10,7 +10,7 @@ Analysis of best 11 from the T20 world cup.  In this end-to-end sports data anal
 
 2**They should be to defend 150 runs on an average**
 
-=================================================================================
+=================================
 # 1) OPENERS
 
 | PARAMETERS | DESCRIPTION | CRITERIA |
