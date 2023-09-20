@@ -2,7 +2,7 @@
 
 ![made-with-PowerBI](https://img.shields.io/badge/made%20with-PowerBI-blue.svg)
 
-Analysis of best 11 from the T20 world cup.  In this end-to-end sports data analytics project I have used data from the ESPN Cricinfo website and  using python, pandas, and Power BI performed analyses on T20 world cup cricket data.
+Data analysis of best 11 from the T20 world cup.  In this end-to-end sports data analytics project I have used data from the ESPN Cricinfo website and  using python, pandas, and Power BI performed analyses on T20 world cup cricket data.
 ---
 
 ## Parameters set:
@@ -10,7 +10,7 @@ Analysis of best 11 from the T20 world cup.  In this end-to-end sports data anal
 
 2**They should be to defend 150 runs on an average**
 
-=================================
+===========================
 # 1) OPENERS
 
 | PARAMETERS | DESCRIPTION | CRITERIA |
