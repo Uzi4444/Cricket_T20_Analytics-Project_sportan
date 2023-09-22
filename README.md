@@ -3,6 +3,15 @@
 ![made-with-PowerBI](https://img.shields.io/badge/made%20with-PowerBI-blue.svg)
 
 Data analysis of best 11 from the T20 world cup.  In this end-to-end sports data analytics project I have used data from the ESPN Cricinfo website and  using python, pandas, and Power BI performed analyses on T20 world cup cricket data.
+----------
+
+## Files included;-
+1) Cricket T20-Analytics - Power Bi.mp4 --> Sample video of dashboard
+2) Cricket T20-Analytics.pdf --> Dashboard sample
+3) Cricket T20-Analytics.pbix --> Power bi file
+4) t20_csv_files.zip --> includes individual Processed data files inside the zip archive file
+5) t20_data_preprocessing.ipynb --> python data processing codes
+6) t20_json_files.zip --> includes individual raw data files inside the zip archive file
 ---
 
 ## Parameters set:
